@@ -1,3 +1,5 @@
+using ChaoticCupidonServer;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -19,5 +21,9 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+builder.Services.AddSignalR();
+
+app.MapHub<LetterHub>("/letterHub");
 
 app.Run();
