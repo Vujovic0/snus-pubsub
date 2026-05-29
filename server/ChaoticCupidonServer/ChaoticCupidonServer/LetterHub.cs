@@ -17,7 +17,7 @@ namespace ChaoticCupidonServer
 
         public async Task InitSinglePerson(PersonDto personDto)
         {
-            Person person = new(personDto.Username, personDto.City, personDto.Age, personDto.Phone, Context.ConnectionId);
+            Person person = new(personDto.Username, personDto.City, personDto.Age, personDto.Phone);
             lock (_lock)
             {
                 if (_usernames.Contains(person.Username))
