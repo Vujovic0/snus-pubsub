@@ -7,10 +7,9 @@
         public int Age { get; set; }
         public String Phone { get; set; }
         public Boolean CanRecieveLetters { get; set; }
-        public String ConnectionId { get; set; }
         public HashSet<String> BlockedUsernames { get; set; }
 
-        public Person(string username, string city, int age, string phone, string connectionId)
+        public Person(string username, string city, int age, string phone)
         {
             Validate(username, city, age, phone);
             Username = username;
@@ -18,7 +17,6 @@
             Age = age;
             Phone = phone.Trim();
 
-            ConnectionId = connectionId;
             CanRecieveLetters = true;
             BlockedUsernames = new();
         }
