@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ChaoticCupidonClient/ChaoticCupidonClient.csproj" Id="65bbf911-9c55-40c7-8a99-11edeea4663c" />
+  <Project Path="ChaoticCupidonServer/ChaoticCupidonServer.csproj" />
+</Solution>
