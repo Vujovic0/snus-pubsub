@@ -1,6 +1,0 @@
-@ChaoticCupidonServer_HostAddress = http://localhost:5143
-
-GET {{ChaoticCupidonServer_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

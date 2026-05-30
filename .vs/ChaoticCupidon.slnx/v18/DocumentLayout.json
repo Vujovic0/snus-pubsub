@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65BBF911-9C55-40C7-8A99-11EDEEA4663C}|ChaoticCupidonClient\\ChaoticCupidonClient.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BBF911-9C55-40C7-8A99-11EDEEA4663C}|ChaoticCupidonClient\\ChaoticCupidonClient.csproj|solutionrelative:chaoticcupidonclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BBF911-9C55-40C7-8A99-11EDEEA4663C}|ChaoticCupidonClient\\ChaoticCupidonClient.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonclient\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BBF911-9C55-40C7-8A99-11EDEEA4663C}|ChaoticCupidonClient\\ChaoticCupidonClient.csproj|solutionrelative:chaoticcupidonclient\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\letterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\letterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65BBF911-9C55-40C7-8A99-11EDEEA4663C}|ChaoticCupidonClient\\ChaoticCupidonClient.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonclient\\letterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65BBF911-9C55-40C7-8A99-11EDEEA4663C}|ChaoticCupidonClient\\ChaoticCupidonClient.csproj|solutionrelative:chaoticcupidonclient\\letterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\letterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\letterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\letterhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\letterhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\chaoticcupidonserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\chaoticcupidonserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChaoticCupidonServer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\obj\\Debug\\net8.0\\ChaoticCupidonServer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChaoticCupidonServer\\obj\\Debug\\net8.0\\ChaoticCupidonServer.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\chaoticcupidonserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\chaoticcupidonserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\chaoticcupidonserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\chaoticcupidonserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|c:\\users\\vukasin\\desktop\\fakultet\\vi semestar\\snus\\klk2\\snus-pubsub\\chaoticcupidon\\chaoticcupidonserver\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C21714D-4CCF-05D4-6B95-02F05A5B8530}|ChaoticCupidonServer\\ChaoticCupidonServer.csproj|solutionrelative:chaoticcupidonserver\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonClient\\Program.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonClient\\Program.cs",
+              "RelativeToolTip": "ChaoticCupidonClient\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:34:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LetterService.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\LetterService.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\LetterService.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\LetterService.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\LetterService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:03:06.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LetterHub.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\LetterHub.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\LetterHub.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\LetterHub.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\LetterHub.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wEQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:03:15.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonClient\\PersonDto.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonClient\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonClient\\PersonDto.cs",
+              "RelativeToolTip": "ChaoticCupidonClient\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:52:16.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LetterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonClient\\LetterDto.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonClient\\LetterDto.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonClient\\LetterDto.cs",
+              "RelativeToolTip": "ChaoticCupidonClient\\LetterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:50:31.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LetterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\LetterDTO.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\LetterDTO.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\LetterDTO.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\LetterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:12:07.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\Program.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\Program.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T19:19:10.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAoVAAAAAAAAAAAlwBQVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-05-29T23:55:49.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ChaoticCupidonServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T19:19:31.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\appsettings.Development.json",
+              "RelativeToolTip": "ChaoticCupidonServer\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T23:42:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChaoticCupidonServer.csproj",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "RelativeToolTip": "ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T23:41:02.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:37:17.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\appsettings.json",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\appsettings.json",
+              "RelativeToolTip": "ChaoticCupidonServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-29T19:19:22.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChaoticCupidonServer.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\obj\\Debug\\net8.0\\ChaoticCupidonServer.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\obj\\Debug\\net8.0\\ChaoticCupidonServer.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\obj\\Debug\\net8.0\\ChaoticCupidonServer.AssemblyInfo.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\obj\\Debug\\net8.0\\ChaoticCupidonServer.AssemblyInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T23:36:11.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChaoticCupidonServer",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "RelativeToolTip": "ChaoticCupidonServer\\ChaoticCupidonServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-29T22:28:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\Person.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\Person.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\Person.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\Person.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T20:02:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChaoticCupidonServer.http",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\ChaoticCupidonServer.http",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\ChaoticCupidonServer.http",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\ChaoticCupidonServer.http",
+              "RelativeToolTip": "ChaoticCupidonServer\\ChaoticCupidonServer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-29T21:43:24.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\PersonDto.cs",
+              "RelativeDocumentMoniker": "ChaoticCupidonServer\\PersonDto.cs",
+              "ToolTip": "C:\\Users\\Vukasin\\Desktop\\Fakultet\\VI Semestar\\snus\\klk2\\snus-pubsub\\ChaoticCupidon\\ChaoticCupidonServer\\PersonDto.cs",
+              "RelativeToolTip": "ChaoticCupidonServer\\PersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T21:02:31.117Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
