@@ -5,7 +5,7 @@ namespace ChaoticCupidonServer
 
     public interface ICupidonClient
     {
-        Task RecieveLetter(string letterText);
+        Task ReceiveLetter(LetterDTO letter);
     }
 
     public class LetterHub : Hub<ICupidonClient>
@@ -17,7 +17,7 @@ namespace ChaoticCupidonServer
 
         public async Task InitSinglePerson(PersonDto personDto)
         {
-            Person person = new(personDto.Username, personDto.City, personDto.Age, personDto.Phone);
+            Person person = new(personDto.Username, personDto.City, personDto.Age, personDto.Phone, Context.ConnectionId);
             lock (_lock)
             {
                 if (_usernames.Contains(person.Username))
@@ -34,8 +34,9 @@ namespace ChaoticCupidonServer
         {
             lock (_lock)
             {
-                if (_persons.TryGetValue(Context.ConnectionId, out Person person)){
-                    person.BlockedUsernames.Add(username);
+                if (_persons.TryGetValue(Context.ConnectionId, out Person person))
+                {
+                    person.BlockedUsernames[username] = new();
                 }
             }
         }
@@ -61,7 +62,14 @@ namespace ChaoticCupidonServer
                 }
                 
             }
+            Console.WriteLine($"User with id: {Context.ConnectionId} disconnected");
             return base.OnDisconnectedAsync(exception);
+        }
+
+        public override Task OnConnectedAsync()
+        {
+            Console.WriteLine($"User with id: {Context.ConnectionId} connected");
+            return base.OnConnectedAsync();
         }
 
         public static Dictionary<string, Person> GetPersons()

@@ -1,22 +1,26 @@
-﻿namespace ChaoticCupidonServer
+﻿using System.Collections.Concurrent;
+
+namespace ChaoticCupidonServer
 {
     public class Person
     {
+        public string ConnectionId { get; set; }
         public String Username { get; set; }
         public String City { get; set; }
         public int Age { get; set; }
         public String Phone { get; set; }
         public Boolean CanRecieveLetters { get; set; }
-        public HashSet<String> BlockedUsernames { get; set; }
+        public ConcurrentDictionary<String, byte> BlockedUsernames { get; set; }
 
-        public Person(string username, string city, int age, string phone)
+        public Person(string username, string city, int age, string phone, string connectionId)
         {
-            Validate(username, city, age, phone);
-            Username = username;
+            Username = username.Trim();
             City = city.Trim();
             Age = age;
             Phone = phone.Trim();
+            Validate(Username, City, Age, Phone);
 
+            ConnectionId = connectionId;
             CanRecieveLetters = true;
             BlockedUsernames = new();
         }
