@@ -146,7 +146,7 @@ namespace main
                 Console.Write(prompt);
                 var input = Console.ReadLine()?.Trim();
 
-                if (!Regex.IsMatch(prompt, @"^\+?\d+$"))
+                if (!Regex.IsMatch(input, @"^\+?\d+$"))
                 {
                     Console.WriteLine("Invalid phone number format");
                     continue;
