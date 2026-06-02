@@ -57,7 +57,7 @@ namespace ChaoticCupidonServer
 
         private async Task SendLetter(Person receiver, Person sender, (string message, string phone) data)
         {
-            LetterDTO letter = new(data.message, sender.City, sender.Age, data.phone);
+            LetterDTO letter = new(data.message, sender.City, sender.Age, data.phone, sender.Username);
             await _hubContext.Clients.Client(receiver.ConnectionId)
                 .ReceiveLetter(letter);
         }

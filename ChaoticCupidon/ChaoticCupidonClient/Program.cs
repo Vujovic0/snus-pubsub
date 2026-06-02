@@ -17,6 +17,7 @@ namespace main
             {
                 Console.WriteLine("\n=== LETTER ===");
                 Console.WriteLine(letter.Message);
+                Console.WriteLine($"Username: {letter.Username}");
                 Console.WriteLine($"City: {letter.City},\n" +
                     $"Age: {letter.Age}");
 
