@@ -1,4 +1,5 @@
 ﻿using System.Collections.Concurrent;
+using System.Text.RegularExpressions;
 
 namespace ChaoticCupidonServer
 {
@@ -33,8 +34,8 @@ namespace ChaoticCupidonServer
                 throw new ArgumentException("User age can not be negative");
             if (age < 18)
                 throw new ArgumentException("User must be at least 18 years old");
-            if (string.IsNullOrWhiteSpace(phone))
-                throw new ArgumentException("Phone number must not be blank");
+            if (!Regex.IsMatch(phone, @"^\+?\d+$"))
+                throw new ArgumentException("Invalid phone number format");
             if (string.IsNullOrWhiteSpace(city))
                 throw new ArgumentException("City must not be blank");
         }

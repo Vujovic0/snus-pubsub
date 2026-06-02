@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.SignalR;
 using Microsoft.AspNetCore.SignalR.Client;
+using System.Text.RegularExpressions;
 
 namespace main
 {
@@ -47,7 +48,7 @@ namespace main
                 string username = ReadNonEmpty("Username: ");
                 string city = ReadNonEmpty("City: ");
                 int age = ReadPositiveInt("Age: ");
-                string phone = ReadNonEmpty("Phone: ");
+                string phone = ReadPhone("Phone: ");
 
                 try
                 {
@@ -138,6 +139,23 @@ namespace main
             }
         }
 
+        static string ReadPhone(string prompt)
+        {
+            while (true)
+            {
+                Console.Write(prompt);
+                var input = Console.ReadLine()?.Trim();
+
+                if (!Regex.IsMatch(prompt, @"^\+?\d+$"))
+                {
+                    Console.WriteLine("Invalid phone number format");
+                    continue;
+                }
+
+                return input;
+            }
+        }
+
         static int ReadPositiveInt(string prompt)
         {
             while (true)
@@ -145,10 +163,10 @@ namespace main
                 Console.Write(prompt);
                 var input = Console.ReadLine()?.Trim();
 
-                if (int.TryParse(input, out int value) && value > 0)
+                if (int.TryParse(input, out int value) && value >= 18)
                     return value;
 
-                Console.WriteLine("Enter a positive number");
+                Console.WriteLine("You must be at least 18 years old");
             }
         }
     }

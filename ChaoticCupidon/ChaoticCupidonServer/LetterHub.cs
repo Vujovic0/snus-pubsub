@@ -17,7 +17,14 @@ namespace ChaoticCupidonServer
 
         public async Task InitSinglePerson(PersonDto personDto)
         {
-            Person person = new(personDto.Username, personDto.City, personDto.Age, personDto.Phone, Context.ConnectionId);
+            Person person;
+            try
+            {
+                person = new(personDto.Username, personDto.City, personDto.Age, personDto.Phone, Context.ConnectionId);
+            } catch (Exception e)
+            {
+                throw new HubException(e.Message, e);
+            }
             lock (_lock)
             {
                 if (_usernames.Contains(person.Username))
